@@ -6,7 +6,7 @@ Un mensaje de WhatsApp cada mañana con un resumen breve de las noticias que te 
 
 ![Resumen de noticias por WhatsApp cada mañana](media/thumbnail.es.png)
 
-**Hecha en un día** · 16 nov 2026 · N horas de trabajo · USD 0 al mes · Versión 1 de 2
+**Hecha en un día** · 16 nov 2026 · USD 0 al mes
 
 ## El pedido
 

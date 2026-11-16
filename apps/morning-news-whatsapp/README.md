@@ -6,7 +6,7 @@ A WhatsApp message every morning with a short summary of the news that matters t
 
 ![Morning news brief on WhatsApp](media/thumbnail.png)
 
-**Built in one day** · 16 Nov 2026 · N hours of work · $0 a month to run · Version 1 of 2
+**Built in one day** · 16 Nov 2026 · $0 a month to run
 
 ## The prompt
 
