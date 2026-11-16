@@ -1,5 +1,7 @@
 # Morning news brief on WhatsApp
 
+**English** · [Español](README.es.md)
+
 A WhatsApp message every morning with a short summary of the news that matters to you, picked to fit your profile.
 
 ![Morning news brief on WhatsApp](media/thumbnail.png)
@@ -80,7 +82,7 @@ $0 a month at one brief a day: free AI models, free CallMeBot, and GitHub Action
 
 ## Want an app like this?
 
-I build custom apps like this one in a day, for 100 USD. [Tell me what you need](https://cristiandesivo.com).
+I build custom apps like this one in a day, for 100 USD. [Tell me what you need](https://cristiandesivo.com/apps-in-a-day/).
 
 ---
 

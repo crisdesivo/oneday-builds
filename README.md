@@ -1,15 +1,17 @@
 # One-day builds
 
+**English** · [Español](README.es.md)
+
 Small, complete applications, each built, tested and deployed in a single day by me,
 [Cristian Desivo](https://cristiandesivo.com).
 
-Each app has its own page with the client's prompt as written, what was built, how it works, the timeline and
-media. The code itself stays private.
+Each app has its own page with the client's prompt as written, what was built, how it works, and media. The code
+itself stays private.
 
 ## The apps
 
 <!--
-Card format, newest first. Each app lives in apps/<name>/ with README.md and media/:
+Card format, newest first. Each app lives in apps/<name>/ with README.md, README.es.md and media/:
 | <img src="apps/NAME/media/thumbnail.png" width="240"> | **[App name](apps/NAME/)**<br>One-line description<br>DATE · monthly cost |
 -->
 
@@ -27,4 +29,5 @@ If something doesn't fit in a day, it gets cut before the build starts, not afte
 
 ## Want one?
 
-LINK TO THE OFFER PAGE ON cristiandesivo.com
+I build custom apps like these in a day: 100 USD if it runs on your side, 200 USD if it runs in the cloud.
+[Send your request](https://cristiandesivo.com/apps-in-a-day/).
